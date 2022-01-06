@@ -7,4 +7,4 @@ Some technologies I have worked with include:
 - Python
 - Django
 - MS Excel/VBA
-- Git/GitHub
+
